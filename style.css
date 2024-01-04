@@ -71,25 +71,28 @@
     margin-right: 10px;
     padding: 5px 5px 5px 5px;
 }
-.projects h2 {
+.projects-title-up {
     text-align: center;
 }
-.card {
+.projects-card {
     background-color: #007a4e;
     border: 0.01px solid black;
     border-width: 5px;
     border-radius: 20px;
     width: 400px;
     height: 325px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 15px;
 }
-.card-2 {
+.projects-card-2 {
     background-color: #bf00c9;
     border: 0.01px solid black;
     border-width: 5px;
     border-radius: 20px;
     width: 400px;
     height: 325px;
-    margin-top: 15px;
+    
 }
 .projects-image {
     margin-left: 150px;
