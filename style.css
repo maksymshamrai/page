@@ -157,6 +157,7 @@
     justify-content: first baseline;
     flex-direction: row;
     flex-wrap: wrap;
+    padding: 5px 5px 5px 5px;
 }
 .ourteam-card {
     background-color: #60a19c;
